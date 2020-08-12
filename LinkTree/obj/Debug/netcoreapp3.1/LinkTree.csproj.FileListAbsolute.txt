@@ -8,3 +8,5 @@ C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.
 C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\LinkTree.RazorTargetAssemblyInfo.cache
 C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\staticwebassets\LinkTree.StaticWebAssets.Manifest.cache
 C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\staticwebassets\LinkTree.StaticWebAssets.xml
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\LinkTree.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\LinkTree.MvcApplicationPartsAssemblyInfo.cache
