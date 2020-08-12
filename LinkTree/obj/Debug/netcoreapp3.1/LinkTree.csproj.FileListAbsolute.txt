@@ -1,0 +1,10 @@
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\bin\Debug\netcoreapp3.1\LinkTree.exe
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\LinkTree.csprojAssemblyReference.cache
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\LinkTree.AssemblyInfoInputs.cache
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\LinkTree.AssemblyInfo.cs
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\LinkTree.RazorTargetAssemblyInfo.cache
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\staticwebassets\LinkTree.StaticWebAssets.Manifest.cache
+C:\Users\conta\Desktop\Projects\LinkTree\BackEnd\LinkTree\obj\Debug\netcoreapp3.1\staticwebassets\LinkTree.StaticWebAssets.xml
